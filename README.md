@@ -5,10 +5,13 @@ Image size 640x480
 2. ROM use ALTER DE2-115 IP on Cyclone IV E : EP4CE115F29C7
 3. You can search some VGA display knowledge on Internet 
 
+---------------------------------------------------------------
+
 Be care about three point
 1. HS clk cycle
 2. VS clk cycle
 3. ROM have flip-flop at input pin  
 
+---------------------------------------------------------------
 
 If you have some suggestion, E-mail to me, thanks a lot
