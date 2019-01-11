@@ -1,7 +1,7 @@
 # VGA_controller
 Image size 640x480
 
-1. If you want to use this project to show other size smaller than 640x480, you only modify `PIC_H & `PIC_V
+1. If you want to use this project to show other size smaller than 640x480, you only modify PIC_H & PIC_V
 2. ROM use ALTER DE2-115 IP on Cyclone IV E : EP4CE115F29C7
 3. You can search some VGA display knowledge on Internet 
 
