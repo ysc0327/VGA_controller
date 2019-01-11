@@ -9,3 +9,6 @@ Be care about three point
 1. HS clk cycle
 2. VS clk cycle
 3. ROM have flip-flop at input pin  
+
+
+If you have some suggestion, E-mail to me, thanks a lot
