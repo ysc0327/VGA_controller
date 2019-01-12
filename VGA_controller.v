@@ -135,7 +135,7 @@ wire [23:0] pixel;
 //assign {VGA_R,VGA_G,VGA_B} = (VGA_BLANK_N) ? 24'h30 : 24'h0; 
 assign {VGA_R,VGA_G,VGA_B} = (VGA_BLANK_N) ? pixel : 24'h0; 
 
-//unsing ALTERA DE2-115 IP-ROM (output non flip-flop)
+//using ALTERA DE2-115 IP-ROM (output non flip-flop)
 rom3   inst1 (.address(ADR), .clock(clk25), .q(pixel));
 
 
