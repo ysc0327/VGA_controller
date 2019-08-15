@@ -18,4 +18,4 @@ If you have some suggestion, E-mail to me, thanks a lot
 
 ---------------------------------------------------------------
 
-My E-mail : dance84327@gmail.com
+My e-mail : dance84327@gmail.com
