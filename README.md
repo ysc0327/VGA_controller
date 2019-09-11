@@ -16,6 +16,4 @@ Be care about three point
 
 If you have some suggestion, E-mail to me, thanks a lot.
 
----------------------------------------------------------------
-
 My e-mail : dance84327@gmail.com
